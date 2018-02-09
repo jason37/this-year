@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jason Chapin <jason@lab1337.com> (http://lab1337.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": 
+    { "type": "git"
+    , "url": "https://github.com/jason37/this-year"
+    }
 }
