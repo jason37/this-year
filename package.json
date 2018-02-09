@@ -1,6 +1,6 @@
 {
   "name": "this-year",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this-year is a simple module that returns the current four-digit year.",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "Jason Chapin <jason@lab1337.com> (http://lab1337.com)",
   "license": "ISC",
-  "repository": 
-    { "type": "git"
-    , "url": "https://github.com/jason37/this-year"
-    }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jason37/this-year"
+  }
 }
