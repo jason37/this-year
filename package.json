@@ -4,12 +4,17 @@
   "description": "this-year is a simple module that returns the current four-digit year.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Jason Chapin <jason@lab1337.com> (http://lab1337.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/jason37/this-year"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
   }
 }
